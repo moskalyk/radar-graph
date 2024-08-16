@@ -1,5 +1,5 @@
 # radar-graph
-an arch derived graph showing various pathways in a radar deconstructed graph
+arch derived graph showing various pathways in a radar deconstructed graph
 
 ## example
 a first implementation of the code enables showing the variation in value coming from multiple different angles as it relates to: individual, team, versus group for the benefit of learning
